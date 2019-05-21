@@ -1,0 +1,21 @@
+.page-title {
+	font-size: 25px;
+	margin: 30px 0 10px 0;
+}
+
+.notes {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.note {
+	margin-top: 10px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+}
+
+.title {
+	font-weight: bold;
+}
